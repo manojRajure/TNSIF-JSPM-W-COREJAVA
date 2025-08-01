@@ -17,6 +17,11 @@ public class PrimitiveDataType {
 		int intMin =-2147483648;
 		System.out.println("Max Range of int is :"+intMax);
 		System.out.println("Min Range of int is :"+intMin);
+		
+		long longMax=9223372036854775807l;
+		long longMin=-9223372036854775808l;
+		System.out.println("Max Range of long is :"+longMax);
+		System.out.println("Min Range of long is :"+longMin);
 
 	}
 }
