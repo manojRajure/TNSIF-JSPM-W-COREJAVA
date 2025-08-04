@@ -1,4 +1,4 @@
-package com.demo.dayThree;
+package com.demo.dayOne;
 
 public class typeCasting {
 
