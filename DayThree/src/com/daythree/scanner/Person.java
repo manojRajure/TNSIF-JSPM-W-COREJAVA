@@ -48,9 +48,6 @@ public class Person {
 		this.tax = tax;
 	}
 
-	public static void main(String[] args) {
-		Scanner s= new Scanner(System.in);
-
-	}
+	
 
 }
