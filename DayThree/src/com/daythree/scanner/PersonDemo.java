@@ -35,6 +35,7 @@ public class PersonDemo {
 		
 		System.out.println(name+" Income tax is: "+p.getTax());
 		
+		System.out.println(p);
 		
 
 	}
