@@ -48,6 +48,12 @@ public class Person {
 		this.tax = tax;
 	}
 
+	@Override
+	public String toString() {
+		return "Person [name=" + name + ", income=" + income + ", age=" + age + ", gender=" + gender + ", tax=" + tax
+				+ "]";
+	}
+
 	
 
 }
