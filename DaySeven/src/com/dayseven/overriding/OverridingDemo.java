@@ -12,8 +12,6 @@ public class OverridingDemo {
 		rbi=new RBI();
 		System.out.println(rbi.getRateofInterest());
 		
-		
-		
 	}
 
 }
