@@ -18,6 +18,7 @@ class Yellow extends Color{
 public class CovarientOverriding {
 
 	public static void main(String[] args) {
+		
 		Color c= new Color();
 		System.out.println(c.getColor());
 		
