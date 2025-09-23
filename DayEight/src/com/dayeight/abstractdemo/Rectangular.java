@@ -1,0 +1,26 @@
+package com.dayeight.abstractdemo;
+
+public class Rectangular extends Shape{
+	float width;
+	float height;
+
+	//default constructor
+	public Rectangular() {
+	width=3.2f;
+	height=3.2f;
+	
+	}
+     
+	public Rectangular(float width, float height) {
+		
+		this.width = width;
+		this.height = height;
+	}
+
+	@Override
+	public void calArea() {
+		this.area=width*height;
+		
+	}
+
+}
